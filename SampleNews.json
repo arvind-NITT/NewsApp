@@ -1,0 +1,170 @@
+{
+  "status": "ok",
+  "totalResults": 29,
+  "articles": [
+    {
+      "source": { "id": "google-news-uk", "name": "Google News (UK)" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Rail strikes will punish innocent people, transport secretary says",
+      "description": "But union leaders blame politicians for failing to stop the strikes, which will begin on Tuesday.",
+      "url": "https://www.bbc.co.uk/news/uk-61854567",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C4ED/production/_125531405_hi076750303.jpg",
+      "publishedAt": "2022-06-19T09:23:59+00:00",
+      "content": "By George BowdenBBC News\r\nA series of strikes set to hit the rail network next week will \"punish millions of innocent people\", Transport Secretary Grant Shapps has said.\r\nHe said commuters and pupils… [+5752 chars]"
+    },
+    {
+      "source": { "id": "bild", "name": "Bild" },
+      "author": "Frank Selig",
+      "title": "Kegeln: Deutsche setzt sich bei Weltmeisterschaft in Estland durch",
+      "description": "Sie war so jung, als sie zum ersten Mal kegelte. Nun ist Anna Müller  die beste Keglerin der Welt.Der Sport wurde für sie zur  Leidenschaft. Wer ihr Mentor war und was ihre fünf Erfolgs-Regeln sind, lesen Sie mit BILDplus. *** BILDplus Inhalt ***",
+      "url": "http://www.bild.de/bild-plus/news/inland/news-inland/kegeln-deutsche-setzt-sich-bei-weltmeisterschaft-in-estland-durch-80439840.bild.html",
+      "urlToImage": "https://bilder.bild.de/fotos/kegeln-deutsche-setzt-sich-bei-weltmeisterschaft-in-estland-durch-15b024ba19db4158a60bc0ea466ba52c-80441798/Bild/6,club=bildplus.bild.jpg?1655626795000",
+
+      "publishedAt": "2022-06-19T08:19:56Z",
+      "content": "Sie war so jung, als sie zum ersten Mal kegelte. Nun ist Anna Müller die beste Keglerin der Welt.\r\nDer Sport wurde für sie zur Leidenschaft. \r\nWer ihr Mentor war und was ihre fünf Erfolgs-Regeln sind… [+24 chars]"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Avalanche crush Lightning, take 2-0 lead in Stanley Cup final | CBC Sports",
+      "description": "Looking like by far the better team against the defending champions, the Colorado Avalanche overwhelmed the Tampa Bay Lightning 7-0 in Game 2 of the Stanley Cup final on Saturday to take a 2-0 lead in the best-of-seven series.",
+      "url": "http://www.cbc.ca/sports/hockey/nhl/avalanche-lightning-game-2-2022-nhl-stanley-cup-final-june-18-1.6493806",
+      "urlToImage": "https://i.cbc.ca/1.6493916.1655608191!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/valeri-nichushkin-180622.jpg",
+      "publishedAt": "2022-06-19T04:07:19.3463944Z",
+      "content": "Looking like by far the better team against the defending champions, the Colorado Avalanche overwhelmed the Tampa Bay Lightning 7-0 in Game 2 of the Stanley Cup Final on Saturday night to take a 2-0 … [+4284 chars]"
+    },
+   
+    {
+      "source": { "id": "cnn-es", "name": "CNN Spanish" },
+      "author": "CNN",
+      "title": "Al menos 12 muertos y 8 lesionados en accidente vial en carretera México - Querétaro",
+      "description": "Al menos 12 personas murieron y 8 más resultaron lesionadas este sábado luego de un percance vial que involucró a un \"vehículo de transporte colectivo\"",
+      "url": "https://cnnespanol.cnn.com/2022/06/18/al-menos-12-muertos-y-8-lesionados-en-accidente-vial-en-carretera-mexico-queretaro/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2022/06/FVi-XGJUcAEZ4oc-e1655605941286.jpg?quality=100&strip=info",
+      "publishedAt": "2022-06-19T02:32:33Z",
+      "content": "(CNN Español) -- Al menos 12 personas murieron y 8 más resultaron lesionadas este sábado luego de un percance vial que involucró a un \"vehículo de transporte colectivo\" cerca del kilómetro 128 de la … [+640 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Kelsey Vlamis",
+      "title": "US may punish airlines for flight delays, cancellations: Buttigieg",
+      "description": "Transportation Secretary Pete Buttigieg said his department is trying \"to make sure that the airlines are delivering\" as thousands of flights are delayed or canceled.",
+      "url": "http://www.businessinsider.com/us-may-punish-airlines-for-flight-delays-cancellations-buttigieg-2022-6",
+      "urlToImage": "https://i.insider.com/62ae6aa3e3600d0018e7f81a?width=1200&format=jpeg",
+      "publishedAt": "2022-06-19T00:57:08Z",
+      "content": "Transportation Secretary Pete Buttigieg is weighing potential consequences for airlines as thousands of flight delays and cancellations have left Americans across the US frustrated or stranded.\r\n\"Tha… [+1846 chars]"
+    },
+  
+   
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "DAVID KOENIG",
+      "title": "Buttigieg: US may act against airlines on consumers' behalf",
+      "description": "The day after Transportation Secretary Pete Buttigieg met with airline leaders to quiz them about widespread flight disruptions, his own flight was canceled and he wound up driving from Washington to New York.",
+      "url": "https://apnews.com/c3ebc7fbe4bcfb6402e67e0d626365a0",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/5b5a77bc466549e087bd00879b90c9d8/3000.jpeg",
+      "publishedAt": "2022-06-18T18:26:59Z",
+      "content": "The day after Transportation Secretary Pete Buttigieg met with airline leaders to quiz them about widespread flight disruptions, his own flight was canceled and he wound up driving from Washington to… [+2658 chars]"
+    },
+    {
+      "source": { "id": "four-four-two", "name": "FourFourTwo" },
+      "author": "Alasdair Mackenzie",
+      "title": "“He’s really good at Fortnite”: Career in Esports beckons for ex-Arsenal star Mesut Ozil",
+      "description": "Arsenal's former playmaker will move into Esports when he retires, according to his agent",
+      "url": "https://www.fourfourtwo.com/news/hes-really-good-at-fortnite-career-in-esports-beckons-for-ex-arsenal-star-mesut-ozil",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wTkR5r8QnETxmkSoggvePj-1200-80.jpg",
+      "publishedAt": "2022-06-18T15:17:01Z",
+      "content": "Former Arsenal star Mesut Ozil will focus on a career in Esports when he retires from football, according to his agent.\r\nThe German World Cup winner’s future is in limbo after he was frozen out of th… [+1764 chars]"
+    },
+    {
+      "source": { "id": "four-four-two", "name": "FourFourTwo" },
+      "author": "Alasdair Mackenzie",
+      "title": "Chelsea report: Lazio director gauges interest in Man United and Newcastle target",
+      "description": "Lazio's sporting director travelled to England this week to gauge interest in Sergej Milinkovic-Savic",
+      "url": "https://www.fourfourtwo.com/news/chelsea-report-lazio-director-gauges-interest-in-man-united-and-newcastle-target",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GZ6E8fQAjWmVTFi4LdbbqL-1200-80.jpg",
+      "publishedAt": "2022-06-18T14:58:37Z",
+      "content": "Lazio sporting director Igli Tare travelled to England this week to gauge interest in midfielder Sergej Milinkovic-Savic from the likes of Chelsea, Manchester United and Newcastle, say reports. \r\nThe… [+1246 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Kevin PeltonESPN Senior Writer ",
+      "title": "Where Stephen Curry ranks among the NBA's all-time great guards after securing his fourth title",
+      "description": "Four rings, two MVPs and a career of changing the sport. The list of NBA players at Stephen Curry's level just got a lot shorter.",
+      "url": "http://espn.go.com/nba/insider/story/_/id/34105076/where-stephen-curry-ranks-nba-all-great-guards-securing-fourth-title",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0617%2Fr1026113_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-06-18T12:00:00Z",
+      "content": "Now that Golden State Warriors star Stephen Curry has won his fourth championship and earned the Bill Russell NBA Finals MVP Trophy for the first time, how high has he climbed in the all-time ranking… [+7094 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Mustapha Kessous",
+      "title": "Rachel Kéké, candidate des luttes invisibles aux législatives",
+      "description": "Cette femme de chambre de 48 ans est arrivée largement en tête dans la 7ᵉ circonscription du Val-de-Marne pour la Nupes. Elle affrontera Roxana Maracineanu, ancienne ministre des sports d’Emmanuel Macron, au second tour, dimanche 19 juin.",
+      "url": "https://www.lemonde.fr/elections-legislatives-2022/article/2022/06/17/legislatives-2022-rachel-keke-candidate-des-luttes-invisibles_6130808_6104324.html",
+      "urlToImage": "https://img.lemde.fr/2022/06/17/1644/0/3946/2630/1440/960/60/0/5deadcb_1655457224634-5-millerand-dscf7725.jpg",
+      "publishedAt": "2022-06-17T10:30:36Z",
+      "content": "Rachel Kéké, candidate de la Nupes dans la 7e circonscription du Val-de-Marne, le 16 juin 2022. CAMILLE MILLERAND POUR «LE MONDE»\r\nSon jour de gloire va peut-être arriver. Rachel Kéké y croit, et cer… [+3207 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "⭐ &#x27;The Champions&#x27; Season Finale ⭐",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/244201-the-champions-season-6-episode-3",
+      "urlToImage": null,
+      "publishedAt": "2022-06-15T17:37:27.3831502Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "Live Bradley Beal Interview ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/244886-taylor-rooks-x-bradley-beal",
+      "urlToImage": null,
+      "publishedAt": "2022-06-15T17:22:35.1827416Z",
+      "content": null
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Daily Briefing",
+      "description": "The day's top stories, from sports to movies to politics to world events.",
+      "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+      "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+      "publishedAt": "2021-08-15T15:35:07+00:00",
+      "content": "The day's top stories, from sports to movies to politics to world events."
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Rajat Pandit",
+      "title": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China",
+      "description": "India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu",
+      "url": "http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82217908,width-1070,height-580,imgsize-264639,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T08:29:00Z",
+      "content": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Army explores procurement of 350 light tanks for mou… [+58 chars]"
+    },
+    {
+      "source": { "id": "wired-de", "name": "Wired.de" },
+      "author": "GQ",
+      "title": "Volvo C40 Recharge: Dieses E-SUV schreit nach Sportlichkeit",
+      "description": "Volvo setzt auf emissionsfreies Fahren: Mit dem vollelektrischen C40 Recharge präsentiert der schwedische Automobilhersteller sein zweites E-SUV.",
+      "url": "https://www.gq-magazin.de/auto-technik/article/volvo-c40-recharge-zweites-e-suv-feiert-premiere",
+      "urlToImage": "https://res.cloudinary.com/wired-de/image/upload/t_teaser_square/v1/0/volvo-c40-recharge-e-auto-neuheit-aufmjpg.jpg",
+      "publishedAt": "2021-03-03T16:40:18Z",
+      "content": "Im Oktober 2019 stellte Volvo mit dem XC40 Recharge sein erstes Elektroauto vor nun folgt mit dem Volvo C40 Recharge bereits das zweite vollelektrische Modell. Dabei steht das neue E-SUV stellvertret… [+3163 chars]"
+    },
+    {
+      "source": { "id": "wired-de", "name": "Wired.de" },
+      "author": "Felix J. Strohbach",
+      "title": "Pininfarina Battista E-Hypercar: Stärker als Bugatti, teurer als Bentley",
+      "description": "Exklusiver kann ein Hypercar nicht sein – und das ohne Verbrennungsmotor. Der Pininfarina Battista ist ein E-Sportler mit GT-Komfort.",
+      "url": "https://www.gq-magazin.de/auto-technik/article/pininfarina-battista-elektrisches-hypercar-leistung-preis-reichweite",
+      "urlToImage": "https://res.cloudinary.com/wired-de/image/upload/t_teaser_square/v1/0/pininfarina-battista-elektrischer-supersportwagen-hypercar-auto-aufmjpg.jpg",
+      "publishedAt": "2021-03-02T11:33:54Z",
+      "content": "13 Zentimeter liegen beim Pininfarina Battista zwischen Pedal und Bodenblech. Sobald der Fahrer sein Bein durchstreckt, entfesselt er 1.900 PS elektrische Power und in wenigen Sekunden katapultiert i… [+4480 chars]"
+    }
+  ]
+}
