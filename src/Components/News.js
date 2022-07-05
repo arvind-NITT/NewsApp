@@ -13,7 +13,10 @@ export default function News(props) {
     return string.charAt(0).toUpperCase() + string.slice(1);
   }
  
-  
+  let mystyle={
+    'background': '#111827',
+    'marginTop':" 56px"
+  }
   
 
  const update = async ()=> {
@@ -36,10 +39,12 @@ export default function News(props) {
 
   useEffect(()=>{
   update();
-    
+  if(props.Flag===0)
+  props.changeMode();
   document.title = `${capitalizeFirstLetter(
     props.category
    )}-My News App`;
+   // eslint-disable-next-line
   },[])
  
 
@@ -62,13 +67,13 @@ const fetchMoreData = async () => {
  
     return (
       <div 
-        style={{
+        style={props.mode==='Dark'?mystyle:{
           background:
             "linear-gradient(110deg, rgb(177, 73, 65) 60%, rgb(183, 96, 42) 60%)",
-            'margin-top':" 56px"
+            'marginTop':" 56px"
         }}
       >
-        <h2 className="text-center my-2">
+        <h2 className={`text-center my-2 text-${props.mode==='Light'?"dark":"light"}`}>
           {capitalizeFirstLetter(props.category)} - Top Headlines
         </h2>
         {loading && <Spinner />}
@@ -85,7 +90,7 @@ const fetchMoreData = async () => {
                   return (
                     <div className="col-md-4 my-3" key={element.url}>
                       <Newsitem
-                        Title={element.title ? element.title : ""}
+                        Title={element.title ? element.title : " "}
                         description={
                           element.description ? element.description : ""
                         }
@@ -93,6 +98,7 @@ const fetchMoreData = async () => {
                         newsitem={element.url}
                         author={element.author}
                         publishedAt={element.publishedAt}
+                        mode={props.mode}
                       />
                     </div>
                   );
