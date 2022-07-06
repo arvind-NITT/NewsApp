@@ -1,6 +1,7 @@
 import React ,{useEffect,useState} from "react";
 import Newsitem from "./Newsitem";
-import Spinner from "./Spinner";
+// import Spinner from "./Spinner";
+import Loader from "./Loader";
 import PropTypes from "prop-types";
 import InfiniteScroll from "react-infinite-scroll-component";
 
@@ -66,7 +67,7 @@ const fetchMoreData = async () => {
 
  
     return (
-      <div 
+      <div className="min-vh-100" 
         style={props.mode==='Dark'?mystyle:{
           background:
             "linear-gradient(110deg, rgb(177, 73, 65) 60%, rgb(183, 96, 42) 60%)",
@@ -76,13 +77,13 @@ const fetchMoreData = async () => {
         <h2 className={`text-center my-2 text-${props.mode==='Light'?"dark":"light"}`}>
           {capitalizeFirstLetter(props.category)} - Top Headlines
         </h2>
-        {loading && <Spinner />}
+        {loading && <div className="d-flex justify-content-center"> <Loader /></div>}
       { !loading && <div className="container m-8">
           <InfiniteScroll
             dataLength={articles.length}
             next={fetchMoreData}
             hasMore={articles.length !== TotalResult}
-            loader={<Spinner />}
+            loader={<Loader />}
           >
             <div className="container">
               <div className="row my-3">
